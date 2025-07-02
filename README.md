@@ -1,15 +1,14 @@
 ![logo](https://github.com/Jyoti404/Jyoti404/blob/main/bnr.png)
 <h1 align="center">Hi 👋, I'm Jyoti Maurya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyoti404&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti404" /> </p>
 
-- 🌱 I’m currently learning **React, gsap**
 
-- 💬 Ask me about **HTML, CSS, Js , C++**
+- 💬 Ask me about **MERN**
 
-- 📫 How to reach me **guddanmaurya2004@gmail.com**
+- 📫 How to reach me **jyoti21mauryaa@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1uthGoIHIwi_qlzHj8csyWaR3TffsY5xH/view?usp=drive_link](https://drive.google.com/file/d/1uthGoIHIwi_qlzHj8csyWaR3TffsY5xH/view?usp=drive_link)
 
@@ -18,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jyoti-maurya-b9a5b8255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-maurya-b9a5b8255" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/jyoti_maurya180" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyoti_maurya180" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jyoti_maurya18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jyoti_maurya180" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
