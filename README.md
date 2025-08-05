@@ -1,4 +1,4 @@
-![logo](https://github.com/Jyoti404/Jyoti404/blob/main/bnr.png)
+![logo]([https://github.com/Jyoti404/Jyoti404/blob/main/bnr.png](https://res.cloudinary.com/dfjepjwgm/image/upload/v1754413834/glasses-lie-laptop-reflecting-light-from-screen-dark_sqfnzr.jpg))
 <h1 align="center">Hi 👋, I'm Jyoti Maurya</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279">
